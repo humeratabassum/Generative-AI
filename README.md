@@ -1,0 +1,1 @@
+This repository contains implementations of key Generative AI models using TensorFlow and PyTorch. It includes experiments with autoencoders, regularized autoencoders, variational autoencoders, and autoregressive models such as FVSBN, NADE, and MADE , covering vanilla GANs, progressive GANs, and style transfer using GANs.
